@@ -1,0 +1,16 @@
+Prerequistes
+--------------
+Make sure your Appium server is started.
+Make sure your emulator is opened
+
+My Desired Capabilities: 
+-------------------------
+I want to open emulator : emulator -avd TestMachine01
+App : MoviePass
+Connection step to server
+
+
+Code:
+
+
+
